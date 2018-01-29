@@ -1,0 +1,40 @@
+
+body {
+  background-color: #FAFAFA
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: #DCD7D6;
+  font-weight: bold;
+  padding: 30px;
+  text-align: center;
+  background-color: #AA5588;
+}
+
+#brick_selector {
+  font-family: "Courier New", Courier, monospace;
+  color: black;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+#selection {
+  padding: 50px 100px;
+  font-family: "Courier New", Courier, monospace;
+  color: black;
+  font-weight: normal;
+  font-size: 1.2em;
+  background-color: #CCCCCC;
+}
+
+#pyramid > p {
+  font-family: "Courier New", Courier, monospace;
+  color: #AA5588;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+#content {
+  padding: 50px 200px;
+}
